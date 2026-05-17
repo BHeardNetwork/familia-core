@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ... (full .gitignore as created)
+# FamiliaCore specific
+data/
+*.db
+digital_self.json
