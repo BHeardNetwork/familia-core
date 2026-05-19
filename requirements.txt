@@ -4,12 +4,10 @@ sqlmodel
 sqlite-utils
 numpy
 networkx
-sentence-transformers  # for local embeddings, optional but recommended
-ollama  # Python client for Ollama
-litellm  # abstraction, optional
+sentence-transformers
+ollama
+litellm
 apscheduler
 python-dateutil
-rich  # for logging
+rich
 pyyaml
-# For future/full: lancedb, duckdb, etc.
-# Run with: pip install -r requirements.txt

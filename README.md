@@ -17,9 +17,7 @@ Built with god-tier principles from local AI builder skills: GUI-first professio
 
 No cloud. No data leaving your machine. Grows with you across years.
 
-## Quickstart
-See the full README in the repo for architecture, features, and how to run the validated demo.
-
+## Quick Start
 ```bash
 git clone https://github.com/BHeardNetwork/familia-core.git
 cd familia-core
@@ -27,4 +25,6 @@ pip install -r requirements.txt
 python main.py
 ```
 
-The demo shows Identity, Triad Memory + REM, Self-Dialogue, Inference, and Persistent Worker all working together.
+Run the demo to see Identity, Triad Memory + REM, Self-Dialogue, Inference, and Persistent Worker in action.
+
+See full architecture in the detailed sections below (or in the original build conversation).

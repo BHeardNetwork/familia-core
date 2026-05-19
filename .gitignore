@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# ... (full .gitignore as created)
 # FamiliaCore specific
 data/
 *.db
